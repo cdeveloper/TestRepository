@@ -2,10 +2,6 @@
 using std::cout;
 using std::endl;
 
-#include<iostream>
-using std::cout;
-using std::endl;
-
 class MyIntVector
 {
 public :
