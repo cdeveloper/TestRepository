@@ -6,6 +6,8 @@
 *.o
 *.depend
 *.layout
+# main is my local coding
+main.cpp
 [Bb]in/
 [Oo]bj/
 
