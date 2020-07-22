@@ -1,3 +1,15 @@
+# CodeBlocks
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.cbp
+*.exe
+*.o
+*.depend
+*.layout
+[Bb]in/
+[Oo]bj/
+
+
 #################
 ## Eclipse
 #################
