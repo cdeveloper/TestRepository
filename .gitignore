@@ -8,8 +8,13 @@
 *.layout
 # main is my local coding
 main.cpp
+
+# compilation, build and link directories
 [Bb]in/
 [Oo]bj/
+
+# temp.cpp is my temporary local changes not for git
+temp.cpp
 
 
 #################
