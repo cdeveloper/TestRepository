@@ -6,16 +6,11 @@
 *.o
 *.depend
 *.layout
-
 # main is my local coding
 main.cpp
-
-# this are intermediate directories for build and linking, compilation
 [Bb]in/
 [Oo]bj/
 
-# temp.cpp is only for swapping files or temporary code
-temp.cpp
 
 #################
 ## Eclipse
